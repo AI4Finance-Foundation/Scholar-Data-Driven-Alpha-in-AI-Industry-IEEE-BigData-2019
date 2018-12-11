@@ -8,7 +8,20 @@
 (3) method: search by key word / company  
 (4) chanllenge: unstructured data to clenaed data  
 
-2. Publication data  
+2. Publication data
+Conferences:
+   NeurIPS
+   AAAI
+   CVPR
+   IJCAI
+   ICML
+   ICLR
+   ECCV
+   ICCV
+   ACL
+   
+Journals:
+   
 
 
 
