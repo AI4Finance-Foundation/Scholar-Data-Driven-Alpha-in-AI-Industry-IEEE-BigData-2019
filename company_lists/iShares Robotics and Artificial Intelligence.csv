@@ -1,0 +1,96 @@
+﻿Ticker,Name,Asset Class,Weight (%),Notional Value,Sector,Country
+AYX,ALTERYX INC CLASS A,Equity,2.02,"240,781.20",Information Technology,United States
+992,LENOVO GROUP LTD,Equity,1.86,"221,598.83",Information Technology,China
+2379,REALTEK SEMICONDUCTOR CORP,Equity,1.79,"213,024.66",Information Technology,Taiwan
+DATA,TABLEAU SOFTWARE INC CLASS A,Equity,1.71,"202,912.29",Information Technology,United States
+XLNX,XILINX INC,Equity,1.68,"200,101.56",Information Technology,United States
+AMD,ADVANCED MICRO DEVICES INC,Equity,1.65,"196,765.92",Information Technology,United States
+2458,ELAN MICROELECTRONICS CORP,Equity,1.64,"194,847.20",Information Technology,Taiwan
+IRBT,IROBOT CORP,Equity,1.61,"191,421.36",Consumer Discretionary,United States
+P,PANDORA MEDIA INC,Equity,1.52,"181,046.25",Communication,United States
+LSCC,LATTICE SEMICONDUCTOR CORP,Equity,1.51,"179,578.35",Information Technology,United States
+NOKIA,NOKIA,Equity,1.42,"168,544.52",Information Technology,Finland
+VNET,21VIANET GROUP ADR REPRESENTING SI,Equity,1.41,"167,553.36",Information Technology,China
+MSFT,MICROSOFT CORP,Equity,1.38,"163,837.14",Information Technology,United States
+CRM,SALESFORCE.COM INC,Equity,1.36,"162,089.37",Information Technology,United States
+SSYS,STRATASYS LTD,Equity,1.36,"161,596.08",Information Technology,United States
+HUBS,HUBSPOT INC,Equity,1.35,"160,837.11",Information Technology,United States
+6758,SONY CORP,Equity,1.35,"160,257.01",Consumer Discretionary,Japan
+267250,HYUNDAI HEAVY INDUSTRIES HOLDINGS,Equity,1.34,"159,822.66",Industrials,Korea (South)
+ISRG,INTUITIVE SURGICAL INC,Equity,1.32,"157,278.96",Health Care,United States
+QCOM,QUALCOMM INC,Equity,1.32,"156,426.75",Information Technology,United States
+ADSK,AUTODESK INC,Equity,1.31,"155,912.64",Information Technology,United States
+MOGA,MOOG INC CLASS A,Equity,1.31,"155,472.00",Industrials,United States
+MSTR,MICROSTRATEGY INC CLASS A,Equity,1.31,"155,225.07",Information Technology,United States
+GOOGL,ALPHABET INC CLASS A,Equity,1.29,"153,537.00",Communication,United States
+3938,LINE CORP,Equity,1.27,"151,316.38",Communication,Japan
+TDC,TERADATA CORP,Equity,1.26,"150,055.59",Information Technology,United States
+AVV,AVEVA GROUP PLC,Equity,1.24,"147,896.67",Information Technology,United Kingdom
+MAIL,MAIL RU GROUP GDR LTD,Equity,1.24,"147,252.60",Communication,Cyprus
+NEM,NEMETSCHEK,Equity,1.24,"147,229.58",Information Technology,Germany
+AME,AMETEK INC,Equity,1.23,"146,169.21",Industrials,United States
+MXL,MAXLINEAR INC,Equity,1.22,"145,607.10",Information Technology,United States
+ADBE,ADOBE INC,Equity,1.22,"144,964.95",Information Technology,United States
+AMZN,AMAZON COM INC,Equity,1.22,"144,622.17",Consumer Discretionary,United States
+PRLB,PROTO LABS INC,Equity,1.19,"141,243.48",Industrials,United States
+PH,PARKER-HANNIFIN CORP,Equity,1.18,"140,910.42",Industrials,United States
+AMBA,AMBARELLA INC,Equity,1.18,"140,461.20",Information Technology,United States
+ANSS,ANSYS INC,Equity,1.18,"139,773.60",Information Technology,United States
+SPLK,SPLUNK INC,Equity,1.17,"139,611.30",Information Technology,United States
+USD,USD CASH,Cash,1.17,"139,242.58",Cash and/or Derivatives,United States
+DSY,DASSAULT SYSTEMES,Equity,1.16,"138,087.94",Information Technology,France
+INTC,INTEL CORPORATION CORP,Equity,1.16,"137,986.20",Information Technology,United States
+HDP,HORTONWORKS INC,Equity,1.16,"137,419.50",Information Technology,United States
+AAPL,APPLE INC,Equity,1.13,"134,560.14",Information Technology,United States
+JCOM,J2 GLOBAL INC,Equity,1.12,"133,371.06",Information Technology,United States
+YNDX,YANDEX NV CLASS A,Equity,1.11,"132,580.80",Communication,United States
+6954,FANUC CORP,Equity,1.11,"131,691.59",Industrials,Japan
+4966,PARADE TECHNOLOGIES LTD,Equity,1.09,"130,003.40",Information Technology,Taiwan
+TXN,TEXAS INSTRUMENT INC,Equity,1.09,"129,729.60",Information Technology,United States
+IBM,INTERNATIONAL BUSINESS MACHINES CO,Equity,1.09,"129,181.86",Information Technology,United States
+CGNX,COGNEX CORP,Equity,1.08,"128,994.39",Information Technology,United States
+MTSC,MTS SYSTEMS CORP,Equity,1.08,"128,204.85",Information Technology,United States
+6479,MINEBEA MITSUMI INC,Equity,1.05,"125,163.43",Industrials,Japan
+7012,KAWASAKI HEAVY INDUSTRIES LTD,Equity,1.04,"123,626.76",Industrials,Japan
+2492,INFOMART CORP,Equity,1.04,"123,605.27",Information Technology,Japan
+CY,CYPRESS SEMICONDUCTOR CORP,Equity,1.04,"123,235.41",Information Technology,United States
+5930,SAMSUNG ELECTRONICS LTD,Equity,1.03,"123,069.96",Information Technology,Korea (South)
+PEGA,PEGASYSTEMS INC,Equity,1.03,"122,011.26",Information Technology,United States
+NFLX,NETFLIX INC,Equity,1.02,"121,169.70",Communication,United States
+DDD,3D SYSTEMS CORP,Equity,1.01,"120,444.75",Information Technology,United States
+TWTR,TWITTER INC,Equity,1,"118,975.98",Communication,United States
+FB,FACEBOOK CLASS A INC,Equity,1,"118,859.40",Communication,United States
+CLDR,CLOUDERA INC,Equity,0.97,"115,650.90",Information Technology,United States
+6506,YASKAWA ELECTRIC CORP,Equity,0.97,"115,371.18",Information Technology,Japan
+VRNS,VARONIS SYSTEMS INC,Equity,0.97,"114,875.04",Information Technology,United States
+DUE,DUERR AG,Equity,0.96,"114,592.78",Industrials,Germany
+MCHP,MICROCHIP TECHNOLOGY INC,Equity,0.96,"114,402.15",Information Technology,United States
+6324,HARMONIC DRIVE SYSTEMS INC,Equity,0.94,"111,583.24",Industrials,Japan
+ATA,ATS AUTOMATION TOOLING SYSTEMS INC,Equity,0.94,"111,226.42",Industrials,Canada
+BABA,ALIBABA GROUP HOLDING ADR REPRESEN,Equity,0.92,"109,033.77",Consumer Discretionary,China
+3632,GREE INC,Equity,0.91,"108,577.06",Communication,Japan
+CEVA,CEVA INC,Equity,0.89,"105,323.13",Information Technology,United States
+6594,NIDEC CORP,Equity,0.88,"104,934.18",Industrials,Japan
+CARB,CARBONITE INC,Equity,0.88,"104,352.75",Information Technology,United States
+BIDU,BAIDU ADR REPTG INC CLASS A,Equity,0.85,"101,507.88",Communication,China
+ATO,ATOS,Equity,0.82,"97,980.79",Information Technology,France
+TLND,TALEND ADR REPRESENTING SA,Equity,0.82,"97,940.16",Information Technology,France
+2498,HTC CORP,Equity,0.82,"97,777.35",Information Technology,Taiwan
+SINA,SINA CORP,Equity,0.81,"96,617.49",Communication,China
+3443,GLOBAL UNICHIP CORP,Equity,0.8,"95,326.10",Information Technology,Taiwan
+STM,STMICROELECTRONICS NV,Equity,0.77,"92,083.83",Information Technology,France
+YY,YY ADR REPRESENTING INC CLASS A,Equity,0.76,"90,600.30",Communication,China
+2049,HIWIN TECHNOLOGIES CORP,Equity,0.75,"89,468.31",Industrials,Taiwan
+WB,WEIBO ADR REPRESENTING CORP CLASS,Equity,0.73,"87,223.50",Communication,China
+NVDA,NVIDIA CORP,Equity,0.73,"86,734.20",Information Technology,United States
+MOMO,MOMO ADR REPRESENTING INC CLASS A,Equity,0.63,"74,921.40",Communication,China
+1980,TIAN GE INTERACTIVE HOLDINGS LTD,Equity,0.61,"72,127.69",Communication,China
+1357,MEITU INC,Equity,0.38,"45,106.15",Information Technology,China
+AM3D,SLM SOLUTIONS GROUP AG,Equity,0.32,"37,861.03",Industrials,Germany
+SNAP,SNAP INC CLASS A,Equity,0.28,"33,573.54",Communication,United States
+BLKFDS,BLK CSH FND TREASURY SL AGENCY,Money Market,0.22,"26,570.91",Cash and/or Derivatives,United States
+HKD,HKD CASH,Cash,0,332.37,Cash and/or Derivatives,Hong Kong
+CAD,CAD CASH,Cash,0,281.51,Cash and/or Derivatives,Canada
+ILS,ILS CASH,Cash,0,215,Cash and/or Derivatives,Israel
+EUR,EUR CASH,Cash,0,214.71,Cash and/or Derivatives,European Union
+GBP,GBP CASH,Cash,0,116.82,Cash and/or Derivatives,United Kingdom

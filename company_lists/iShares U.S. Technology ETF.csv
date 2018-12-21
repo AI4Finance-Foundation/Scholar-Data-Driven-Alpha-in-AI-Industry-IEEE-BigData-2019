@@ -1,0 +1,154 @@
+﻿Ticker,Name,Asset Class,Weight (%),Notional Value,Sector
+MSFT,MICROSOFT CORP,Equity,16.09,"553,441,858.92",Information Technology
+AAPL,APPLE INC,Equity,14.88,"511,636,702.95",Information Technology
+FB,FACEBOOK CLASS A INC,Equity,6.65,"228,741,380.20",Communication
+GOOG,ALPHABET INC CLASS C,Equity,6.43,"220,974,990.15",Communication
+GOOGL,ALPHABET INC CLASS A,Equity,6.33,"217,536,339.50",Communication
+INTC,INTEL CORPORATION CORP,Equity,4.34,"149,299,019.10",Information Technology
+CSCO,CISCO SYSTEMS INC,Equity,4.02,"138,101,720.33",Information Technology
+ORCL,ORACLE CORP,Equity,2.7,"92,929,637.76",Information Technology
+ADBE,ADOBE INC,Equity,2.21,"76,123,434.80",Information Technology
+AVGO,BROADCOM INC,Equity,2.16,"74,241,362.58",Information Technology
+IBM,INTERNATIONAL BUSINESS MACHINES CO,Equity,2.13,"73,347,267.52",Information Technology
+CRM,SALESFORCE.COM INC,Equity,2,"68,720,272.76",Information Technology
+TXN,TEXAS INSTRUMENT INC,Equity,1.81,"62,273,000.79",Information Technology
+NVDA,NVIDIA CORP,Equity,1.7,"58,401,838.60",Information Technology
+QCOM,QUALCOMM INC,Equity,1.41,"48,556,046.97",Information Technology
+INTU,INTUIT INC,Equity,1.03,"35,323,099.02",Information Technology
+CTSH,COGNIZANT TECHNOLOGY SOLUTIONS COR,Equity,0.75,"25,899,575.10",Information Technology
+MU,MICRON TECHNOLOGY INC,Equity,0.75,"25,794,238.72",Information Technology
+HPQ,HP INC,Equity,0.66,"22,580,636.58",Information Technology
+RHT,RED HAT INC,Equity,0.64,"22,051,944.32",Information Technology
+ADI,ANALOG DEVICES INC,Equity,0.64,"21,864,789.66",Information Technology
+AMAT,APPLIED MATERIAL INC,Equity,0.63,"21,596,102.70",Information Technology
+NOW,SERVICENOW INC,Equity,0.62,"21,491,991.36",Information Technology
+ADSK,AUTODESK INC,Equity,0.56,"19,417,495.11",Information Technology
+EBAY,EBAY INC,Equity,0.54,"18,507,379.86",Consumer Discretionary
+WDAY,WORKDAY INC CLASS A,Equity,0.46,"15,805,420.52",Information Technology
+XLNX,XILINX INC,Equity,0.44,"15,007,199.60",Information Technology
+TWTR,TWITTER INC,Equity,0.44,"14,991,529.99",Communication
+DVMT,DELL TECHNOLOGIES CLASS V INC,Equity,0.42,"14,551,648.38",Information Technology
+LRCX,LAM RESEARCH CORP,Equity,0.42,"14,389,453.26",Information Technology
+MSI,MOTOROLA SOLUTIONS INC,Equity,0.39,"13,320,268.50",Information Technology
+HPE,HEWLETT PACKARD ENTERPRISE,Equity,0.38,"13,238,338.85",Information Technology
+PANW,PALO ALTO NETWORKS INC,Equity,0.35,"11,873,724.24",Information Technology
+CERN,CERNER CORP,Equity,0.34,"11,849,288.08",Health Care
+MCHP,MICROCHIP TECHNOLOGY INC,Equity,0.34,"11,531,118.33",Information Technology
+VRSN,VERISIGN INC,Equity,0.33,"11,214,538.58",Information Technology
+AMD,ADVANCED MICRO DEVICES INC,Equity,0.32,"10,948,441.14",Information Technology
+NTAP,NETAPP INC,Equity,0.31,"10,690,445.04",Information Technology
+DXC,DXC TECHNOLOGY,Equity,0.31,"10,568,463.12",Information Technology
+CTL,CENTURYLINK INC,Equity,0.3,"10,478,202.28",Communication
+SPLK,SPLUNK INC,Equity,0.29,"9,960,966.95",Information Technology
+MXIM,MAXIM INTEGRATED PRODUCTS INC,Equity,0.28,"9,659,329.92",Information Technology
+KLAC,KLA TENCOR CORP,Equity,0.28,"9,544,091.30",Information Technology
+IAC,IAC INTERACTIVE,Equity,0.28,"9,531,247.56",Communication
+CTXS,CITRIX SYSTEMS INC,Equity,0.28,"9,465,091.20",Information Technology
+BLKFDS,BLK CSH FND TREASURY SL AGENCY,Money Market,0.27,"9,241,896.99",Cash and/or Derivatives
+SNPS,SYNOPSYS INC,Equity,0.26,"8,839,724.40",Information Technology
+CDW,CDW CORP,Equity,0.25,"8,670,810.90",Information Technology
+SYMC,SYMANTEC CORP,Equity,0.25,"8,645,343.96",Information Technology
+ANSS,ANSYS INC,Equity,0.25,"8,616,927.40",Information Technology
+CDNS,CADENCE DESIGN SYSTEMS INC,Equity,0.24,"8,364,614.96",Information Technology
+SWKS,SKYWORKS SOLUTIONS INC,Equity,0.24,"8,347,110.60",Information Technology
+IT,GARTNER INC,Equity,0.24,"8,337,536.47",Information Technology
+VMW,VMWARE INC CLASS A,Equity,0.23,"8,032,042.11",Information Technology
+WDC,WESTERN DIGITAL CORP,Equity,0.22,"7,598,792.52",Information Technology
+AKAM,AKAMAI TECHNOLOGIES INC,Equity,0.22,"7,515,186.70",Information Technology
+VEEV,VEEVA SYSTEMS INC CLASS A,Equity,0.21,"7,329,377.68",Health Care
+GDDY,GODADDY INC CLASS A,Equity,0.21,"7,293,618.72",Information Technology
+ANET,ARISTA NETWORKS INC,Equity,0.21,"7,237,409.79",Information Technology
+FTNT,FORTINET INC,Equity,0.21,"7,148,539.44",Information Technology
+FFIV,F5 NETWORKS INC,Equity,0.2,"6,849,218.25",Information Technology
+STX,SEAGATE TECHNOLOGY PLC,Equity,0.2,"6,803,367.88",Information Technology
+JNPR,JUNIPER NETWORKS INC,Equity,0.19,"6,621,986.70",Information Technology
+SSNC,SS AND C TECHNOLOGIES HOLDINGS INC,Equity,0.19,"6,401,839.95",Information Technology
+MRVL,MARVELL TECHNOLOGY GROUP LTD,Equity,0.18,"6,217,843.50",Information Technology
+PTC,PTC INC,Equity,0.18,"6,154,660.05",Information Technology
+DATA,TABLEAU SOFTWARE INC CLASS A,Equity,0.17,"5,934,677.50",Information Technology
+DOX,AMDOCS LTD,Equity,0.17,"5,895,480.49",Information Technology
+LDOS,LEIDOS HOLDINGS INC,Equity,0.17,"5,743,397.59",Information Technology
+QRVO,QUORVO INC,Equity,0.16,"5,358,558.40",Information Technology
+GRMN,GARMIN LTD,Equity,0.16,"5,341,760.92",Consumer Discretionary
+ULTI,ULTIMATE SOFTWARE GROUP INC,Equity,0.15,"5,182,647.00",Information Technology
+TYL,TYLER TECHNOLOGIES INC,Equity,0.14,"4,955,110.98",Information Technology
+ON,ON SEMICONDUCTOR CORP,Equity,0.14,"4,872,568.40",Information Technology
+BAH,BOOZ ALLEN HAMILTON HOLDING CORP C,Equity,0.14,"4,711,553.52",Information Technology
+GRUB,GRUBHUB INC,Equity,0.13,"4,583,571.20",Consumer Discretionary
+GWRE,GUIDEWIRE SOFTWARE INC,Equity,0.13,"4,571,972.64",Information Technology
+TWLO,TWILIO INC CLASS A,Equity,0.13,"4,392,678.88",Information Technology
+IDTI,INTEGRATED DEVICE TECHNOLOGY INC,Equity,0.13,"4,381,731.00",Information Technology
+CDK,CDK GLOBAL INC,Equity,0.12,"4,259,582.56",Information Technology
+PAYC,PAYCOM SOFTWARE INC,Equity,0.12,"4,189,860.64",Information Technology
+ETSY,ETSY INC,Equity,0.12,"4,134,627.24",Consumer Discretionary
+ZEN,ZENDESK INC,Equity,0.12,"4,065,268.32",Information Technology
+TER,TERADYNE INC,Equity,0.12,"4,062,680.82",Information Technology
+AZPN,ASPEN TECHNOLOGY INC,Equity,0.12,"4,025,263.97",Information Technology
+EPAM,EPAM SYSTEMS INC,Equity,0.12,"3,962,044.24",Information Technology
+FICO,FAIR ISAAC CORP,Equity,0.11,"3,800,798.88",Information Technology
+ATHN,ATHENAHEALTH INC,Equity,0.11,"3,739,344.00",Health Care
+ARRS,ARRIS INTERNATIONAL PLC,Equity,0.11,"3,612,988.30",Information Technology
+RNG,RINGCENTRAL INC CLASS A,Equity,0.1,"3,600,561.42",Information Technology
+CIEN,CIENA CORP,Equity,0.1,"3,328,945.23",Information Technology
+PFPT,PROOFPOINT INC,Equity,0.09,"3,262,905.32",Information Technology
+OKTA,OKTA INC CLASS A,Equity,0.09,"3,250,627.47",Information Technology
+ZAYO,ZAYO GROUP HOLDINGS INC,Equity,0.09,"3,224,121.12",Communication
+CY,CYPRESS SEMICONDUCTOR CORP,Equity,0.09,"3,158,536.73",Information Technology
+MPWR,MONOLITHIC POWER SYSTEMS INC,Equity,0.09,"3,115,231.68",Information Technology
+HUBS,HUBSPOT INC,Equity,0.09,"3,106,964.49",Information Technology
+TDC,TERADATA CORP,Equity,0.09,"3,101,331.81",Information Technology
+CREE,CREE INC,Equity,0.09,"3,037,030.23",Information Technology
+LOGM,LOGMEIN INC,Equity,0.09,"2,989,280.65",Information Technology
+XRX,XEROX CORP,Equity,0.08,"2,883,437.40",Information Technology
+NUAN,NUANCE COMMUNICATIONS INC,Equity,0.08,"2,813,907.28",Information Technology
+MDSO,MEDIDATA SOLUTIONS INC,Equity,0.08,"2,793,124.45",Health Care
+OLED,UNIVERSAL DISPLAY CORP,Equity,0.08,"2,757,829.08",Information Technology
+CACI,CACI INTERNATIONAL INC CLASS A,Equity,0.08,"2,584,485.80",Information Technology
+ENTG,ENTEGRIS INC,Equity,0.07,"2,555,280.42",Information Technology
+NEWR,NEW RELIC INC,Equity,0.07,"2,474,074.44",Information Technology
+SNAP,SNAP INC CLASS A,Equity,0.07,"2,466,909.90",Communication
+VSAT,VIASAT INC,Equity,0.07,"2,456,800.00",Information Technology
+RP,REALPAGE INC,Equity,0.07,"2,412,232.86",Information Technology
+MKSI,MKS INSTRUMENTS INC,Equity,0.07,"2,398,198.75",Information Technology
+Z,ZILLOW GROUP INC CLASS C,Equity,0.07,"2,393,467.02",Communication
+SNX,SYNNEX CORP,Equity,0.07,"2,364,055.40",Information Technology
+FEYE,FIREEYE INC,Equity,0.07,"2,346,769.80",Information Technology
+SLAB,SILICON LABORATORIES INC,Equity,0.07,"2,343,278.08",Information Technology
+JCOM,J2 GLOBAL INC,Equity,0.07,"2,292,198.42",Information Technology
+TECD,TECH DATA CORP,Equity,0.06,"2,220,386.00",Information Technology
+COMM,COMMSCOPE HOLDING INC,Equity,0.06,"2,211,593.70",Information Technology
+ACIW,ACI WORLDWIDE INC,Equity,0.06,"2,178,639.90",Information Technology
+BLKB,BLACKBAUD INC,Equity,0.06,"2,132,870.06",Information Technology
+TWOU,2U INC,Equity,0.06,"2,067,961.72",Information Technology
+NTNX,NUTANIX INC CLASS A,Equity,0.06,"2,025,960.62",Information Technology
+VRNT,VERINT SYSTEMS INC,Equity,0.06,"2,024,215.60",Information Technology
+SMTC,SEMTECH CORP,Equity,0.06,"2,011,295.16",Information Technology
+MANH,MANHATTAN ASSOCIATES INC,Equity,0.06,"2,008,102.18",Information Technology
+VSM,VERSUM MATERIALS INC,Equity,0.06,"2,000,044.72",Information Technology
+NCR,NCR CORP,Equity,0.06,"1,928,309.76",Information Technology
+SAIC,SCIENCE APPLICATIONS INTERNATIONAL,Equity,0.06,"1,924,736.67",Information Technology
+PSTG,PURE STORAGE INC CLASS A,Equity,0.06,"1,911,068.64",Information Technology
+LITE,LUMENTUM HOLDINGS INC,Equity,0.05,"1,844,740.23",Information Technology
+PRSP,PERSPECTA INC,Equity,0.05,"1,812,671.68",Information Technology
+STMP,STAMPS.COM INC,Equity,0.05,"1,806,482.99",Consumer Discretionary
+FNSR,FINISAR CORP,Equity,0.05,"1,786,749.30",Information Technology
+IDCC,INTERDIGITAL INC,Equity,0.05,"1,697,824.48",Information Technology
+VIAV,VIAVI SOLUTIONS INC,Equity,0.05,"1,585,962.37",Information Technology
+CVLT,COMMVAULT SYSTEMS INC,Equity,0.05,"1,579,920.00",Information Technology
+P,PANDORA MEDIA INC,Equity,0.05,"1,563,622.50",Communication
+ELLI,ELLIE MAE INC,Equity,0.04,"1,501,174.27",Information Technology
+CRUS,CIRRUS LOGIC INC,Equity,0.04,"1,499,830.42",Information Technology
+UBNT,UBIQUITI NETWORKS INC,Equity,0.04,"1,386,346.65",Information Technology
+NTCT,NETSCOUT SYSTEMS INC,Equity,0.04,"1,259,833.12",Information Technology
+SATS,ECHOSTAR CORP CLASS A,Equity,0.04,"1,218,068.59",Information Technology
+PEGA,PEGASYSTEMS INC,Equity,0.03,"1,187,005.61",Information Technology
+MDRX,ALLSCRIPTS HEALTHCARE SOLUTIONS IN,Equity,0.03,"1,182,730.90",Health Care
+ZG,ZILLOW GROUP INC CLASS A,Equity,0.03,"995,520.51",Communication
+CARS,CARS.COM INC,Equity,0.03,"982,044.00",Communication
+SYNA,SYNAPTICS INC,Equity,0.03,"893,706.39",Information Technology
+CDAY,CERIDIAN HCM HOLDING INC,Equity,0.02,"855,945.87",Information Technology
+PLT,PLANTRONICS INC,Equity,0.02,"795,104.10",Information Technology
+CARG,CARGURUS INC CLASS A,Equity,0.02,"755,733.20",Communication
+DOCU,DOCUSIGN INC,Equity,0.02,"619,802.30",Information Technology
+ZS,ZSCALER INC,Equity,0.01,"377,735.58",Information Technology
+USD,USD CASH,Cash,-0.17,"-5,941,978.24",Cash and/or Derivatives
