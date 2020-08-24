@@ -1,4 +1,4 @@
-# Quantifying ESG Alpha in Scholar Big Data: An Automated Machine Learning Approach
+# Practical Machine Learning Approach to Capture the Scholar Data Driven Alpha in AI Industry
 
 AI technologies are helping more and more companies leverage their resources to expand business, reach higher
 financial performance and become more valuable for investors.
