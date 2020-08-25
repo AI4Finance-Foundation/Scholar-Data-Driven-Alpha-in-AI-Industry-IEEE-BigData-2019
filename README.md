@@ -28,13 +28,13 @@ approach is better at capturing investment alpha in AI industry
 than traditional financial factors.
 
 ## Reference
-Yunzhe Fang, Xiao-Yang Liu, and Hongyang Yang. 2019.   Practical machinelearning approach to capture the scholar data driven alpha in AI industry. In2019IEEE International Conference on Big Data (Big Data) Speical Session on IntelligentData Mining. 2230–2239
+Yunzhe Fang, Xiao-Yang Liu, and Hongyang Yang. 2019.   Practical machine learning approach to capture the scholar data driven alpha in AI industry. In2019IEEE International Conference on Big Data (Big Data) Special Session on IntelligentData Mining. 2230–2239
 [Our Paper(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501239)
 ## Data
 
 ### Alternative Data & Preprocessing
 
-The alternative data we use is from the [Microsoft Academic Graph database](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/), which is an open resource database with records of publications, including papers, journals, conferences, books etc. It provides the demographics of the publications like public date, citations, authors and affiliated institutes. It includes ESG publication records dating back to 1970s - long enough to study the relationship between ESG publications and companies' stock prices.
+The alternative data we use is from the [Microsoft Academic Graph database](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/), which is an open resource database with records of publications, including papers, journals, conferences, books etc. It provides the demographics of the publications like public date, citations, authors and affiliated institutes. 
 
 * First, we collect and combine every component stock from several AI related indexes such as Vanguard Information Technology Exchange-Traded Fund (ETF) and Global X Robotics & Artificial Intelligence Thematic ETF [12]. This gives us a basic company pool to select from.
 * Then we get a list of companies including companies in non-US markets or do not have publications and patents
@@ -61,9 +61,7 @@ The daily price of stocks we use is pulled from [Compustat database via Wharton 
 
 * Step 1: We train the 6 models based on the same features and monthly returns data concurrently on a 36-month-train rolling window.
 * Step 2: We validate all 6 models by using a 6-month validate-rolling window followed by the 36-month-train rolling window. We calculate the MAE of each model.
-* Step 3: After validation, we select the best model which has the lowest MAE to predict and trade. So we will have a set of predicted returns for all current stocks. We rank the stocks by the predicted return and only select top 25% stocks with highest predicted returns to form our portfolio. We use LSTM as our trading model 41 times out of 117 backtesting months, as listed in Table II. From the result we can see that LSTM is the best model for our topic.
-
-![rolling_window](https://github.com/chenqian0168/Quantifying-ESG-Alpha-in-Scholar-Big-Data-An-Automated-Machine-Learning-Approach/blob/master/pictures/rolling_window.png)
+* Step 3: After validation, we select the best model which has the lowest MAE to predict and trade. So we will have a set of predicted returns for all current stocks. We rank the stocks by the predicted return and only select top 25% stocks with highest predicted returns to form our portfolio. We use LSTM as our trading model 41 times out of 117 backtesting months, as listed in Table II. From the result we can see that LSTM is the best model for our topic. (https://github.com/chenqian0168/Quantifying-ESG-Alpha-in-Scholar-Big-Data-An-Automated-Machine-Learning-Approach/blob/master/pictures/rolling_window.png)
 
 ## Performance
 
