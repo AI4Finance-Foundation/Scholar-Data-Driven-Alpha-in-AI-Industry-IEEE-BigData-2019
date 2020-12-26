@@ -50,12 +50,12 @@ The daily price of stocks we use is pulled from [Compustat database via Wharton 
 
 ### Ensemble
 
-* LSTM
 * Linear Regression
 * Lasso Regression
 * Ridge Regression
 * Random Forest Regression
 * Support Vector Regression
+* LSTM
 
 ### Rolling window backtesting
 
